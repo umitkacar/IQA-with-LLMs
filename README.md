@@ -11,7 +11,6 @@
 ## Agents
 
 - https://huggingface.co/docs/transformers/transformers_agents
-
   - Document question answering: given a document (such as a PDF) in image format, answer a question on this document (Donut)
   - Text question answering: given a long text and a question, answer the question in the text (Flan-T5)
   - Unconditional image captioning: Caption the image! (BLIP)
