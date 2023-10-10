@@ -21,6 +21,10 @@
   - Zero-shot text classification: given a text and a list of labels, identify to which label the text corresponds the most (BART)
   - Text summarization: summarize a long text in one or a few sentences (BART)
   - Translation: translate the text into a given language (NLLB)
+ 
+## LLMs
+
+- https://github.com/databricks-academy/large-language-models
 
 ## Others
 
