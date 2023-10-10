@@ -22,10 +22,6 @@
   - Text summarization: summarize a long text in one or a few sentences (BART)
   - Translation: translate the text into a given language (NLLB)
  
-## LLMs
-
-- https://github.com/databricks-academy/large-language-models
-
 ## Others
 
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
