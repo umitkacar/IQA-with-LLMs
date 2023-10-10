@@ -12,6 +12,17 @@
 
 - https://huggingface.co/docs/transformers/transformers_agents
 
+  - Document question answering: given a document (such as a PDF) in image format, answer a question on this document (Donut)
+  - Text question answering: given a long text and a question, answer the question in the text (Flan-T5)
+  - Unconditional image captioning: Caption the image! (BLIP)
+  - Image question answering: given an image, answer a question on this image (VILT)
+  - Image segmentation: given an image and a prompt, output the segmentation mask of that prompt (CLIPSeg)
+  - Speech to text: given an audio recording of a person talking, transcribe the speech into text (Whisper)
+  - Text to speech: convert text to speech (SpeechT5)
+  - Zero-shot text classification: given a text and a list of labels, identify to which label the text corresponds the most (BART)
+  - Text summarization: summarize a long text in one or a few sentences (BART)
+  - Translation: translate the text into a given language (NLLB)
+
 ## Others
 
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
