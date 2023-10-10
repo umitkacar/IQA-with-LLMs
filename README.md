@@ -28,5 +28,6 @@
 - https://github.com/lupantech/MathVista
 - https://github.com/CompVis/stable-diffusion
 - https://github.com/AILab-CVC/SEED
+- https://www.databricks.com/resources/webinar/build-your-own-large-language-model-dolly (DOLLY)
 
 
