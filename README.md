@@ -8,6 +8,10 @@
 
 - [Large Language-and-Vision Assistant (LLaVA)](https://github.com/haotian-liu/LLaVA)
 
+## Agents
+
+- https://huggingface.co/docs/transformers/transformers_agents
+
 ## Others
 
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
