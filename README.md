@@ -4,6 +4,10 @@
 
 - [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Srivatsan_FLIP_Cross-domain_Face_Anti-spoofing_with_Language_Guidance_ICCV_2023_paper.pdf) [[CODES]](https://github.com/koushiksrivats/FLIP)
 
+## Face Image Quality Assessment (FIQA)
+
+- [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion](https://arxiv.org/pdf/2305.05768.pdf)
+
 ## Multimodal Large Language Models (MLLMs)
 
 - [Large Language-and-Vision Assistant (LLaVA)](https://github.com/haotian-liu/LLaVA)
