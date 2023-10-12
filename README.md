@@ -12,6 +12,8 @@
 
 - [Large Language-and-Vision Assistant (LLaVA)](https://github.com/haotian-liu/LLaVA)
 
+- https://huyenchip.com/2023/10/10/multimodal.html
+
 ## Agents
 
 - https://huggingface.co/docs/transformers/transformers_agents
