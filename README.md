@@ -19,6 +19,10 @@
 - [Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home)
 - [Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)
 
+## Efficient and Lightweight AI Model (MIT Course)
+
+- [EfficientML.ai Lecture, Fall 2023, MIT 6.5940] (https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
+
 ## Agents
 
 - https://huggingface.co/docs/transformers/transformers_agents
