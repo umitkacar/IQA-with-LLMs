@@ -21,7 +21,7 @@
 
 ## Efficient and Lightweight AI Model (MIT Course)
 
-- [EfficientML.ai Lecture, Fall 2023, MIT 6.5940] (https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
+- [EfficientML.ai Lecture, Fall 2023, MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 
 ## Agents
 
