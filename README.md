@@ -16,7 +16,7 @@
 
 ## LLMs Course
 
-- [Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home)
+- [Large Language Models: Application through Production](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home)
 - [Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)
 
 ## Efficient and Lightweight AI Model (MIT Course)
