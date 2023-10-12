@@ -23,6 +23,10 @@
 
 - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 
+## Kaggle LLMs
+
+- [kaggle-llm-science-exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam/data?select=train.csv)
+
 ## Agents
 
 - https://huggingface.co/docs/transformers/transformers_agents
