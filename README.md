@@ -14,6 +14,11 @@
 
 - https://huyenchip.com/2023/10/10/multimodal.html
 
+## LLMs Course
+
+- [Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home)
+- [Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)
+
 ## Agents
 
 - https://huggingface.co/docs/transformers/transformers_agents
