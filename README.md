@@ -53,5 +53,6 @@
 
 - https://pytorch.org/tutorials/intermediate/pruning_tutorial.html
 - https://leimao.github.io/blog/PyTorch-Pruning/
+- https://www.kaggle.com/code/nitinsss/pruning-a-neural-network
 
 
