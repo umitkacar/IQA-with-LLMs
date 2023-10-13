@@ -49,4 +49,9 @@
 - https://github.com/AILab-CVC/SEED
 - https://www.databricks.com/resources/webinar/build-your-own-large-language-model-dolly (DOLLY)
 
+## Pruning
+
+- https://pytorch.org/tutorials/intermediate/pruning_tutorial.html
+- https://leimao.github.io/blog/PyTorch-Pruning/
+
 
