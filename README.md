@@ -55,4 +55,8 @@
 - https://leimao.github.io/blog/PyTorch-Pruning/
 - https://www.kaggle.com/code/nitinsss/pruning-a-neural-network
 
+## Stable Diffusion (PAIR)
+
+- https://github.com/Picsart-AI-Research/PAIR-Diffusion
+
 
