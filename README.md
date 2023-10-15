@@ -51,7 +51,7 @@
 
 ## Pruning
 
-- [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/pdf/1802.03494.pdf) [GITHUB](https://github.com/mit-han-lab/amc)
+- [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/pdf/1802.03494.pdf) [[GITHUB]](https://github.com/mit-han-lab/amc)
 - https://pytorch.org/tutorials/intermediate/pruning_tutorial.html
 - https://leimao.github.io/blog/PyTorch-Pruning/
 - https://www.kaggle.com/code/nitinsss/pruning-a-neural-network
