@@ -50,6 +50,7 @@
 - https://www.databricks.com/resources/webinar/build-your-own-large-language-model-dolly (DOLLY)
 
 ## Pruning
+- [NetAdapt](https://github.com/denru01/netadapt)
 - [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://github.com/mit-han-lab/apq)
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/pdf/1802.03494.pdf) [[GITHUB]](https://github.com/mit-han-lab/amc)
 - https://pytorch.org/tutorials/intermediate/pruning_tutorial.html
