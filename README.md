@@ -60,5 +60,7 @@
 ## Stable Diffusion (PAIR)
 
 - https://github.com/Picsart-AI-Research/PAIR-Diffusion
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- https://github.com/comfyanonymous/ComfyUI
 
 
