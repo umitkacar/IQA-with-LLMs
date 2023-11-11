@@ -4,6 +4,7 @@
 
 - [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Srivatsan_FLIP_Cross-domain_Face_Anti-spoofing_with_Language_Guidance_ICCV_2023_paper.pdf) [[CODES]](https://github.com/koushiksrivats/FLIP)
 - [SonarGuard: Ultrasonic Face Liveness Detection on Mobile Devices](http://staff.ustc.edu.cn/~dongheng/dhfiles/2023SonarGuard.pdf)
+- https://github.com/gventuri/pandas-ai
 
 ## Face Image Quality Assessment (FIQA)
 
