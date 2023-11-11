@@ -20,9 +20,6 @@
 - [Large Language Models: Application through Production](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home)
 - [Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)
 
-- ALiBi adds a linear basis function to the attention calculation, which enables LLMs to extrapolate to longer context lengths than it was trained on
-- [ALIBI](https://medium.com/@pajakamy/alibi-attention-with-linear-biases-942abe042e9f)
-
 ## Efficient and Lightweight AI Model (MIT Course)
 
 - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
