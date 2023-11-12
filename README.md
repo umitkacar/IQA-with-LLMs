@@ -9,10 +9,6 @@
 - [StableRep: Synthetic Images from Text-to-Image
 Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00984.pdf) [[CODES]](https://github.com/google-research/syn-rep-learn)
 
-  
-- [SonarGuard: Ultrasonic Face Liveness Detection on Mobile Devices](http://staff.ustc.edu.cn/~dongheng/dhfiles/2023SonarGuard.pdf)
-- https://github.com/gventuri/pandas-ai
-
 ## Face Image Quality Assessment (FIQA)
 
 - [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion](https://arxiv.org/pdf/2305.05768.pdf)
@@ -22,6 +18,10 @@ Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00
 ## Face Recognition
 
 - https://github.com/timesler/facenet-pytorch
+
+## Face Liveness
+
+- [SonarGuard: Ultrasonic Face Liveness Detection on Mobile Devices](http://staff.ustc.edu.cn/~dongheng/dhfiles/2023SonarGuard.pdf)
 
 ## Multimodal Large Language Models (MLLMs)
 
@@ -63,6 +63,8 @@ Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00
 - https://github.com/CompVis/stable-diffusion
 - https://github.com/AILab-CVC/SEED
 - https://www.databricks.com/resources/webinar/build-your-own-large-language-model-dolly (DOLLY)
+- https://github.com/gventuri/pandas-ai
+- https://github.com/roboflow/webcamGPT
 
 ## Pruning
 - [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://github.com/denru01/netadapt)
