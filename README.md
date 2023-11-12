@@ -7,7 +7,7 @@
 - [Learning Visual Representations via Language-Guided Sampling](https://openaccess.thecvf.com/content/CVPR2023/papers/Banani_Learning_Visual_Representations_via_Language-Guided_Sampling_CVPR_2023_paper.pdf) [[CODES]](https://github.com/mbanani/lgssl)
 
 - [StableRep: Synthetic Images from Text-to-Image
-Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00984.pdf) [[CODES]](https://github.com/google-research/syn-rep-learn))
+Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00984.pdf) [[CODES]](https://github.com/google-research/syn-rep-learn)
 
   
 - [SonarGuard: Ultrasonic Face Liveness Detection on Mobile Devices](http://staff.ustc.edu.cn/~dongheng/dhfiles/2023SonarGuard.pdf)
