@@ -10,6 +10,12 @@
 
 - [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion](https://arxiv.org/pdf/2305.05768.pdf)
 
+- https://github.com/ZhangYuanhan-AI/CelebA-Spoof
+
+## Face Recognition
+
+- https://github.com/timesler/facenet-pytorch
+
 ## Multimodal Large Language Models (MLLMs)
 
 - [Large Language-and-Vision Assistant (LLaVA)](https://github.com/haotian-liu/LLaVA)
