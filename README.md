@@ -9,6 +9,8 @@
 - [StableRep: Synthetic Images from Text-to-Image
 Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00984.pdf) [[CODES]](https://github.com/google-research/syn-rep-learn)
 
+- https://github.com/stas00/ml-engineering
+
 ## Face Image Quality Assessment (FIQA)
 
 - [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion](https://arxiv.org/pdf/2305.05768.pdf)
