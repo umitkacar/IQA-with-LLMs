@@ -29,6 +29,12 @@ Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00
 
 - https://huyenchip.com/2023/10/10/multimodal.html
 
+- https://github.com/ishan0102/vimGPT
+
+- https://github.com/THUDM/CogVLM
+
+- https://www.adept.ai/blog/fuyu-8b
+
 ## LLMs Course
 
 - [Large Language Models: Application through Production](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home)
