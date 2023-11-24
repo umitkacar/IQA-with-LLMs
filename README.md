@@ -94,5 +94,7 @@ Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00
 - https://www.youtube.com/watch?v=eh1LOS7TFZ8
 - https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb
 
+## Pytorch
+- [SAVING AND LOADING MULTIPLE MODELS IN ONE FILE USING PYTORCH](https://pytorch.org/tutorials/recipes/recipes/saving_multiple_models_in_one_file.html) 
 
 
