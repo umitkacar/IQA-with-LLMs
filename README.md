@@ -88,4 +88,10 @@ Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 - https://github.com/comfyanonymous/ComfyUI
 
+## DreamBooth Training 
+
+- https://www.youtube.com/watch?v=eh1LOS7TFZ8
+- https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb
+
+
 
