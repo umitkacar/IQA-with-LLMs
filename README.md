@@ -37,6 +37,8 @@ Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00
 
 - https://www.adept.ai/blog/fuyu-8b
 
+- https://github.com/roboflow/multimodal-maestro
+
 ## LLMs Course
 
 - [Large Language Models: Application through Production](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home)
