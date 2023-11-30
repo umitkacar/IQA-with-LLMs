@@ -75,6 +75,7 @@ Models Make Strong Visual Representation Learners](https://arxiv.org/pdf/2306.00
 - https://www.databricks.com/resources/webinar/build-your-own-large-language-model-dolly (DOLLY)
 - https://github.com/gventuri/pandas-ai
 - https://github.com/roboflow/webcamGPT
+- https://github.com/microsoft/SoM
 
 ## Pruning
 - [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://github.com/denru01/netadapt)
