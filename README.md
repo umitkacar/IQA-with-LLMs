@@ -4,6 +4,8 @@
 
 - [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Srivatsan_FLIP_Cross-domain_Face_Anti-spoofing_with_Language_Guidance_ICCV_2023_paper.pdf) [[CODES]](https://github.com/koushiksrivats/FLIP)
 
+- [CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning](https://arxiv.org/pdf/2311.17583.pdf)
+
 - [Learning Visual Representations via Language-Guided Sampling](https://openaccess.thecvf.com/content/CVPR2023/papers/Banani_Learning_Visual_Representations_via_Language-Guided_Sampling_CVPR_2023_paper.pdf) [[CODES]](https://github.com/mbanani/lgssl)
 
 - [StableRep: Synthetic Images from Text-to-Image
