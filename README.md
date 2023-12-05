@@ -6,6 +6,8 @@
 
 - [CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning](https://arxiv.org/pdf/2311.17583.pdf)
 
+- [TeG-DG: Textually Guided Domain Generalization for Face Anti-Spoofing](https://arxiv.org/pdf/2311.18420.pdf)
+
 - [Learning Visual Representations via Language-Guided Sampling](https://openaccess.thecvf.com/content/CVPR2023/papers/Banani_Learning_Visual_Representations_via_Language-Guided_Sampling_CVPR_2023_paper.pdf) [[CODES]](https://github.com/mbanani/lgssl)
 
 - [StableRep: Synthetic Images from Text-to-Image
